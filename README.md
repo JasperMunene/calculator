@@ -17,7 +17,7 @@ A basic command-line calculator program in Python that performs addition, subtra
 1. Run the script by executing the following command in your terminal or command prompt:
 
    ```bash
-   python simple_calculator.py
+   python main.py
    ```
 
 2. Follow the on-screen instructions to choose an operation and enter two numbers for calculation.
